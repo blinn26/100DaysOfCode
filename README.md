@@ -1,6 +1,6 @@
-<h1 align="center"> # 100DaysOfCode </h1>
+<h1 align="center">### :fire: # 100DaysOfCode </h1>
 
-<h3 align="center">by Dr. Angela Yu of London App Brewery</h3>
+<h3 align="center">### :fire:by Dr. Angela Yu of London App Brewery</h3>
 
 <p align="center">
   <img src="https://github.com/blinn26/100DaysOfCode/blob/main/LAB%20Wallpaper.jpg" alt="Header Image" />
@@ -130,7 +130,5 @@ Our best selling 12 Rules to Learn to Code eBook
 $12,000+ Python Pro Bootcamp course materials and curriculum
 
 </h3>
-
-link to the course https://www.udemy.com/course/100-days-of-code/
 
  <h3 align="center">### :fire:link to the course https://www.udemy.com/course/100-days-of-code/ </h3>
