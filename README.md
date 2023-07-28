@@ -7,6 +7,8 @@
 </p>
 
 <h3 align="center">### :fire:Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
+  
+<h3 align="center">### :fire💯 Projects in this Repository when Completed</h3>
 
 Python 3 - the latest version of Python
 
