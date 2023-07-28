@@ -38,7 +38,7 @@ if choice1 == "left":
         elif choice3 == "purple":
             print("You found the treasure! You Win!")
         elif choice3 == "green":
-            print("You enter a room of beasts. Game Over.")
+            print("You enter a room of large earth worms. Game Over.")
         else:
             print("You chose a door that doesn't exist. Game Over.")
     else:
