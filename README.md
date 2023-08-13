@@ -8,6 +8,17 @@
 
 <h3 align="center">### :fire:Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
 
+  
+Most of the Edits are done on Replit they can be found
+here at https://replit.com/@blinn26 
+then carried over to
+my vsCode to bring forward to Github. 
+At day 15 started Using PyCharm 
+as well and also using Anaconda for another side
+project so using many open source 
+Python editors......
+
+
 Python 3 - the latest version of Python
 
 PyCharm, Jupyter Notebook, Google Colab
