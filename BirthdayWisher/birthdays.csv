@@ -1,0 +1,12 @@
+name,email,year,month,day
+Test,test@email.com,1961,12,21
+Ben,benlinn26@gmail.com,1990,8,30
+
+data = pd.read_csv("/Users/benlinn/Python Course/100DaysOfCode/BirthdayWisher/birthdays.csv")
+print(data.head())
+
+
+birthdays_dict = {(row["month"], row["day"]): row for _, row in data.iterrows()}
+print(birthdays_dict)
+
+[Fill this in!]

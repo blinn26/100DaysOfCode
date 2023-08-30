@@ -4,13 +4,23 @@ import os
 my_email = "benlinn26@gmail.com"
 password = os.environ.get("EMAIL_PASSWORD")
 
-print("Setting up the connection...")
+# Validate if password is retrieved
+if not password:
+    print("Email password not set in environment variable!")
+    exit()
 
+print("Setting up the connection...")
 connection = smtplib.SMTP("smtp.gmail.com", 587)
 connection.starttls()
 
 print(f"Logging in as {my_email}...")
-connection.login(user=my_email, password=password)
+
+# Log in to the email account
+try:
+    connection.login(user=my_email, password=password)
+except smtplib.SMTPAuthenticationError:
+    print("Authentication failed. Please check your email and password.")
+    exit()
 
 subject = "Hello"
 body = "Say Hello"
