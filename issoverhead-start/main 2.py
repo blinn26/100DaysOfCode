@@ -6,8 +6,8 @@ import os
 
 MY_EMAIL = "benlinn26@gmail.com"
 MY_PASSWORD = os.environ.get("EMAIL_PASSWORD")
-MY_LAT = 33.556660  # Your latitude
-MY_LONG = -117.723500  # Your longitude
+MY_LAT = 33.556660  
+MY_LONG = -117.723500  
 
 def is_iss_overhead():
     print("Checking if ISS is overhead...")
