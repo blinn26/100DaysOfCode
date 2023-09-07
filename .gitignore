@@ -7,4 +7,5 @@ venv
 .upm
 .replit.nix
 /replit.nix
+set_env_vars.sh
 
