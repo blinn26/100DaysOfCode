@@ -8,4 +8,8 @@ venv
 .replit.nix
 /replit.nix
 set_env_vars.sh
+env_for_replit.sh
+env_for_pycharm.txt
+env_for_replit.json
+
 
